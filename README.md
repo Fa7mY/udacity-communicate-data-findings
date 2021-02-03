@@ -1,6 +1,7 @@
 # Bike Sharing Dataset Exploration
 ## by *George Samir Fahmy*
 
+> The data investigation is done as part of Udacity's Advanced Data Analysis Nanodegree program.
 
 ## Dataset
 
